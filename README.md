@@ -46,6 +46,7 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 
 ## PROGRAM
 
+```sh
 #Developed by: SARAN E
 #Registration number: 212219220045
 
@@ -123,7 +124,7 @@ x_single_prediction = np.argmax(
      axis=1)
 print(x_single_prediction)
 
-
+```
 
 ## OUTPUT
 
